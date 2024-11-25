@@ -82,7 +82,7 @@ a {
     flex-direction: column;
     align-items: center;
     width: 100%;
-    height: 400px;
+    /* height: 400px; */
     margin: 40px;
     background-color: rgba(red, green, blue, 1); 
     /* border-style: dashed;
@@ -134,7 +134,7 @@ h1 {
 /* text&img*/
 .text_container {
     background-color: white;
-    height: 80%;
+    /* height: 80%; */
     width: 400px;
     /* border-style: dashed;
     border-width: 4px;
@@ -145,7 +145,7 @@ h1 {
 .img_container {
     display: flex;
     justify-content: center;
-    height: 450px;
+    /* height: 450px; */
     width: 1000px;
     background-color: rgba(red, green, blue, 1); 
     /* border-style: dashed;
@@ -182,7 +182,7 @@ h2 {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 500px;
+    /* height: 500px; */
     background-color: white;
 }
 
@@ -198,7 +198,7 @@ h2 {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 500px;
+    /* height: 500px; */
     padding-left: 100px;
     gap: 200px;
     background-color: #f6f6f6;
@@ -226,7 +226,7 @@ h2 {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 500px;
+    /* height: 500px; */
     gap: 100px;
     background-color: white;
 }
@@ -242,7 +242,7 @@ h2 {
 .download {
     display: flex;
     width: 100%;
-    height: 1100px;
+    /* height: 1100px; */
     background-color: #f6f6f6;
 }
 
@@ -252,7 +252,7 @@ h2 {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
     background-size: cover;
     /* border-style: dashed;
     border-width: 4px;
@@ -292,6 +292,7 @@ h2 {
     display: flex;
     justify-content: center;
     padding-top: 20px;
+    padding-bottom: 100px;
     padding-left: 120px;
 }
 
@@ -311,14 +312,14 @@ h2 {
     justify-content: center;
     padding-top: 70px;
     width: 100%;
-    height: 600px;
+    /* height: 600px; */
     background-color: #23272a;
 }
 
 #social {
     display: flex;
     flex-direction: column;
-    height: 500px;
+    /* height: 500px; */
     width: 400px;
     /* background-color: #f08180;
     border-style: dashed;
@@ -364,7 +365,7 @@ h3 {
     display: flex;
     flex-direction: column;
     gap: 15px;
-    height: 500px;
+    /* height: 500px; */
     width: 250px;
     /* background-color: #5fced1;
     border-style: dashed;
@@ -388,7 +389,7 @@ h5 {
 /* foooter */
 footer {
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
     background-color: #23272a;  
 }
 
