@@ -173,6 +173,7 @@ h2 {
     background-size: cover;
     background-repeat: no-repeat;
     transform: scaleY(-1);
+    /* filter: invert(13%) sepia(54%) saturate(7022%) hue-rotate(270deg) brightness(112%) contrast(87%); */
 }
 
 /* third_section */
